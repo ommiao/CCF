@@ -1,0 +1,2 @@
+include ':app', ':ccf-algorithm'
+rootProject.name='CCF'
